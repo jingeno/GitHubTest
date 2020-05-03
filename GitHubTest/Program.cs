@@ -8,7 +8,7 @@ namespace GitHubTest
 {
     class Program
     {
-        static void Main(string[] args)jingeno@campusmgmt.com
+        static void Main(string[] args)
         {
                        
         }
